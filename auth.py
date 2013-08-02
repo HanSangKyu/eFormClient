@@ -9,7 +9,7 @@ class OAuth:
     oauthToken = {
         'oauthToken': '',
         'refreshToken': '',
-        'expiresIn': ''
+        'expiresIn': '',
     }
 
     def getToken(self):
